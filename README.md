@@ -1,4 +1,4 @@
-### What's up guys! My name is Clémerson and I'm a FrontEnd developer! I love web and mobile development!
+### What's up guys! My name is Clémerson and I'm a FrontEnd developer!
 
 **About me**
 
