@@ -18,7 +18,7 @@ Big hug! 🚀🚀🚀
 
 - 👨🏼‍🎓 Analysis and systems development student at [UniFtec](https://www.ftec.com.br/)
 <br>
-**Languages and Tools:**  
+**Languages and Tools:**
 
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
