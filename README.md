@@ -17,7 +17,7 @@ Big hug! 🚀🚀🚀
 - 💼 FrontEnd Developer at [Compasso Uol](https://compassouol.com/)
 
 - 👨🏼‍🎓 Analysis and systems development student at [UniFtec](https://www.ftec.com.br/)
-- 
+ 
 <br>
 
 **Languages and Tools**
