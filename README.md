@@ -14,7 +14,7 @@ Feel free to call me for a chat! I will be very happy! And in everything I can h
 
 Big hug! 🚀🚀🚀
 
-- 💼 FrontEnd Developer at [Compass.uol](https://compassouol.com/)
+- 💼 FrontEnd Developer at [Compass.uol](https://compass.uol/)
 
 - 👨🏼‍🎓 Analysis and systems development student at [UniFtec](https://www.ftec.com.br/)
  
