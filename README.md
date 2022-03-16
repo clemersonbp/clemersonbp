@@ -2,7 +2,7 @@
 
 **About me**
 
-My name is Clémerson, I live in São Leopoldo / RS, I'm 34 years old and I graduated in Systems Analysis and Development in the first half of 2022. I've been working since September 2021 as a FrontEnd Developer at Compasso Uol (it's my first professional experience as a Dev 😍) .
+My name is Clémerson, I live in São Leopoldo / RS, I'm 34 years old and I graduated in Systems Analysis and Development in the first half of 2022. I've been working since September 2021 as a FrontEnd Developer at Compass Uol (it's my first professional experience as a Dev 😍) .
 
 I currently work on a platform called OCC (Oracle Commerce Cloud), where we use JS, Jquery and KnockoutJS as the main tools for development, in addition to Less / Css in styling.
 
