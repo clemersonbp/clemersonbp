@@ -2,13 +2,13 @@
 
 **About me**
 
-My name is Clémerson, I live in São Leopoldo / RS, I'm 35 years old and I will graduate in Systems Analysis and Development in the second half of 2022. I've been working since September 2021 as a FrontEnd Developer at Compass Uol (it's my first professional experience as a Dev 😍) .
+My name is Clémerson, I'm Brazilian and I have a degree in Systems Analysis and Development. I've been working since September 2021 as a FrontEnd Developer at Compass Uol (it's my first professional experience as a Dev 😍) .
 
 I currently work on a platform called OCC (Oracle Commerce Cloud), where we use JS, Jquery and KnockoutJS as the main tools for development, in addition to Less / Css in styling.
 
 Soon our project should migrate to ReactJS (in place of Knockout and Jquery) and I'm looking to prepare myself to contribute at a high level with the time when this happens!
 
-I love web development and recently I had some experiences with React Native that chose me very curious and with some plans for the future! 😉
+I love software development and started studies in Java to work with Spring Boot! 😉
 
 Feel free to call me for a chat! I will be very happy! And in everything I can help you, I'm available!
 
