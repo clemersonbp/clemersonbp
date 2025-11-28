@@ -40,7 +40,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **SOBRE MIM**
 
-<table>
+<table align="center">
 <tr>
 <td width="50%">
 
@@ -70,8 +70,6 @@ class Developer {
 
 </td>
 <td width="50%">
-
-<div align="center">
   
 ### 🎯 **O QUE ME MOVE**
 
@@ -88,8 +86,6 @@ class Developer {
 <br/>
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250"/>
-
-</div>
 
 </td>
 </tr>
@@ -108,19 +104,11 @@ class Developer {
 
 <br/>
 
-### ⚔️ **FRONTEND MASTERY**
-
-<br/>
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1a1a2e)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=1a1a2e)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1a2e)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a2e)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=1a1a2e)
-
-<br/>
-
-### 🛡️ **BACKEND & TOOLS**
 
 <br/>
 
@@ -140,21 +128,14 @@ class Developer {
 
 <br/>
 
-<br/>
-
-<!-- PURPLE DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> **GITHUB ANALYTICS**
 
 <br/>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=clemersonbp&show_icons=true&count_private=true&hide_border=true&title_color=a855f7&icon_color=c084fc&text_color=e2e8f0&bg_color=0d1117&ring_color=a855f7" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=clemersonbp&hide_border=true&background=0D1117&stroke=a855f7&ring=a855f7&fire=c084fc&currStreakNum=ffffff&sideNums=c084fc&currStreakLabel=a855f7&sideLabels=c084fc&dates=64748b" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=clemersonbp&show_icons=true&count_private=true&hide_border=true&title_color=7c3aed&icon_color=a855f7&text_color=c4b5fd&bg_color=0d0d0d&ring_color=6d28d9" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=clemersonbp&hide_border=true&background=0D0D0D&stroke=4c1d95&ring=7c3aed&fire=a855f7&currStreakNum=e9d5ff&sideNums=c4b5fd&currStreakLabel=7c3aed&sideLabels=a855f7&dates=6b21a8" alt="GitHub Streak"/>
 
 </div>
 
@@ -162,7 +143,7 @@ class Developer {
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=clemersonbp&bg_color=0d1117&color=c084fc&line=a855f7&point=ffffff&area_color=7c3aed&title_color=a855f7&area=true&hide_border=true&radius=12&custom_title=📈%20Contribution%20Graph" alt="Activity Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=clemersonbp&bg_color=0d0d0d&color=a855f7&line=7c3aed&point=e9d5ff&area_color=4c1d95&title_color=c4b5fd&area=true&hide_border=true&radius=12&custom_title=📈%20Contribution%20Graph" alt="Activity Graph" />
 
 </div>
 
@@ -170,7 +151,7 @@ class Developer {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clemersonbp&layout=compact&hide_border=true&title_color=a855f7&text_color=c084fc&bg_color=0d1117&hide=css" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clemersonbp&layout=compact&hide_border=true&title_color=7c3aed&text_color=a855f7&bg_color=0d0d0d&hide=css" alt="Top Languages"/>
 
 </div>
 
