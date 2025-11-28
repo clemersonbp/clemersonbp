@@ -16,8 +16,7 @@
   <br/>
   
   [![LinkedIn](https://img.shields.io/badge/-Clémerson-6366f1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clemersonbp/)](https://www.linkedin.com/in/clemersonbp/)
-  [![Gmail](https://img.shields.io/badge/-Email-8b5cf6?style=flat-square&logo=Gmail&logoColor=white)](mailto:seu-email@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-6366f1?style=flat-square&logo=vercel&logoColor=white)](https://seu-portfolio.vercel.app)
+  [![Gmail](https://img.shields.io/badge/-Email-8b5cf6?style=flat-square&logo=Gmail&logoColor=white)](mailto:clemersonpessalli@gmail.com)
   
   <br/>
   
