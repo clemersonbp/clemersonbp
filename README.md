@@ -6,17 +6,23 @@
 
 <div align="center">
   
-  <!-- TYPING SVG -->
+  <!-- TYPING SVG - Nome (para após digitar) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+Cl%C3%A9merson;Front-End+Developer+%7C+React+%7C+Next.js" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000000000&color=8B5CF6&center=true&vCenter=true&repeat=false&width=500&height=60&lines=Ol%C3%A1%2C+eu+sou+Cl%C3%A9merson+%F0%9F%91%8B" alt="Typing SVG" />
+  </a>
+  <br/>
+  <!-- TYPING SVG - Subtítulo (loop infinito) -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=1000&color=6366F1&center=true&vCenter=true&width=450&height=40&lines=Front-End+Developer;React+%7C+Next.js+%7C+TypeScript;Apaixonado+por+c%C3%B3digo+limpo+%E2%9C%A8;Sempre+aprendendo+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
-  <!-- BADGES DE CONTATO -->
+  <!-- BADGES DE STATUS -->
   <br/>
   <br/>
   
-  [![LinkedIn](https://img.shields.io/badge/-Clémerson-6366f1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clemersonbp/)](https://www.linkedin.com/in/clemersonbp/)
-  [![Gmail](https://img.shields.io/badge/-Email-8b5cf6?style=flat-square&logo=Gmail&logoColor=white)](mailto:clemersonpessalli@gmail.com)
+  ![Status](https://img.shields.io/badge/Status-Sempre_disponível-6366f1?style=flat-square)
+  ![Focus](https://img.shields.io/badge/Foco-_Next.js_-8b5cf6?style=flat-square)
+  ![Location](https://img.shields.io/badge/📍-Brasil-6366f1?style=flat-square)
   
   <br/>
   
@@ -237,11 +243,11 @@ const clemerson = {
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="mailto:seu-email@gmail.com">
+  <a href="mailto:clemersonpessalli@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   &nbsp;
-  <a href="https://discord.com/users/seu-id">
+  <a href="https://discord.com/users/clemersonbp">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   
@@ -259,5 +265,4 @@ const clemerson = {
 <div align="center">
   <b>Obrigado pela visita! ⭐</b>
   <br/>
-  <sub>Feito com 💜 por Clémerson</sub>
 </div>
