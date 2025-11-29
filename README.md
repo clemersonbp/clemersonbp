@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8b5cf6,100:00ff88&height=180&section=header&text=Clémerson%20Pessali&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-End%20Developer&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8b5cf6,100:38bdf8&height=180&section=header&text=Clémerson%20Pessali&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-End%20Developer&descAlignY=55&descSize=18"/>
 
 <br/>
 
 <!-- TYPING EFFECT -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=React+%7C+Next.js+%7C+TypeScript;Criando+experi%C3%AAncias+digitais;Clean+Code+%26+Performance" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=React+%7C+Next.js+%7C+TypeScript;Criando+experi%C3%AAncias+digitais;UX+%26+Performance" alt="Typing SVG" />
 </a>
 
 </div>
@@ -30,15 +30,15 @@ const clemerson = {
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-8b5cf6?style=for-the-badge&logo=react&logoColor=0d1117)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=00ff88)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=38bdf8)
 ![TypeScript](https://img.shields.io/badge/TypeScript-a78bfa?style=for-the-badge&logo=typescript&logoColor=0d1117)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00ff88)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=38bdf8)
 ![Tailwind](https://img.shields.io/badge/Tailwind-8b5cf6?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-00ff88?style=for-the-badge&logo=nodedotjs&logoColor=0d1117)
+![Node.js](https://img.shields.io/badge/Node.js-38bdf8?style=for-the-badge&logo=nodedotjs&logoColor=0d1117)
 ![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=8b5cf6)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff88)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=38bdf8)
 ![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=8b5cf6)
 
 </div>
@@ -47,14 +47,14 @@ const clemerson = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=clemersonbp&show_icons=true&hide_border=true&title_color=8b5cf6&icon_color=00ff88&text_color=c9d1d9&bg_color=0d1117&count_private=true"/>
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=clemersonbp&hide_border=true&background=0d1117&ring=8b5cf6&fire=00ff88&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8b5cf6&sideLabels=00ff88&dates=6e7681"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=clemersonbp&show_icons=true&hide_border=true&title_color=8b5cf6&icon_color=38bdf8&text_color=c9d1d9&bg_color=0d1117&count_private=true"/>
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=clemersonbp&hide_border=true&background=0d1117&ring=8b5cf6&fire=38bdf8&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8b5cf6&sideLabels=38bdf8&dates=6e7681"/>
 
 </div>
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=clemersonbp&bg_color=0d1117&color=8b5cf6&line=00ff88&point=8b5cf6&area_color=00ff88&area=true&hide_border=true&custom_title=Contribuições"/>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=clemersonbp&bg_color=0d1117&color=8b5cf6&line=38bdf8&point=8b5cf6&area_color=38bdf8&area=true&hide_border=true&custom_title=Contribuições"/>
 
 </div>
 
@@ -63,7 +63,7 @@ const clemerson = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=8b5cf6)](https://www.linkedin.com/in/clemersonbp/)
-[![Gmail](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88)](mailto:clemersonpessalli@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=38bdf8)](mailto:clemersonpessalli@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/clemersonbp)
 
 <br/>
@@ -76,6 +76,6 @@ const clemerson = {
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:8b5cf6,100:0d1117&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:8b5cf6,100:0d1117&height=100&section=footer"/>
 
 </div>
