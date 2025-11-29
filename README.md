@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8b5cf6,100:38bdf8&height=180&section=header&text=Clémerson%20Pessali&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-End%20Developer&descAlignY=55&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8b5cf6,100:38bdf8&height=180&section=header&text=Clémerson%20Pessalli&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-End%20Developer&descAlignY=55&descSize=18"/>
 
 <br/>
 
@@ -20,7 +20,7 @@ const clemerson = {
   empresa: "Compass.uol",
   localização: "Brasil 🇧🇷",
   stack: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-  aprendendo: ["Spring Boot", "Software Architecture"],
+  aprendendo: ["Java", "Spring Boot"],
   foco: "Performance & UX"
 };
 ```
