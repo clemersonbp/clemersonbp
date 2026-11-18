@@ -1,81 +1,116 @@
 <div align="center">
 
-<!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8b5cf6,100:38bdf8&height=180&section=header&text=Clémerson%20Pessalli&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FullStack%20Developer&descAlignY=55&descSize=18"/>
+<h1>Olá, eu sou Clémerson 👋</h1>
 
-<br/>
+<p><strong>Desenvolvedor Fullstack</strong> · São Leopoldo, RS 🇧🇷</p>
 
-<!-- TYPING EFFECT -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=React+%7C+Next.js+%7C+TypeScript;Criando+experi%C3%AAncias+digitais;UX+%26+Performance" alt="Typing SVG" />
-</a>
+<h3>Transformo ideias em interfaces que funcionam.</h3>
 
-</div>
+<p>
+Entusiasta de tecnologias modernas, com facilidade para aprender e assimilar novos conceitos.<br/>
+Motivado por transformar ideias em soluções funcionais e ver projetos ganharem vida.
+</p>
 
----
-
-```ts
-const clemerson = {
-  cargo: "Front-End Developer",
-  empresa: "Compass.uol",
-  localização: "Brasil 🇧🇷",
-  stack: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-  aprendendo: ["Java", "Spring Boot"],
-  foco: "Performance & UX"
-};
-```
-
----
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=0d1117)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0d1117)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+[![Portfólio](https://img.shields.io/badge/Portfólio-clemersonbp.github.io-4f46e5?style=flat-square&logo=googlechrome&logoColor=white)](https://clemersonbp.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-/in/clemersonbp-0A66C2?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDEgMSAwLTQuMTI0IDIuMDYyIDIuMDYyIDAgMCAxIDAgNC4xMjR6TTcuMTE5IDIwLjQ1MkgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg==)](https://www.linkedin.com/in/clemersonbp/)
+[![E-mail](https://img.shields.io/badge/E--mail-clemersonpessalli@gmail.com-18181b?style=flat-square&logo=gmail&logoColor=white)](mailto:clemersonpessalli@gmail.com)
 
 </div>
 
 ---
 
+### 01 · Experiência
+
+**Desenvolvedor Frontend** · [Compass.uol](https://compass.uol/) <br/>
+<sub>Set 2021 — Atual</sub>
+
+- Desenvolvimento do e-commerce de uma gigante nacional na plataforma **Oracle ATG**, com JavaScript, TypeScript, HTML, Sass, Storybook, Lit e Java (JSP) — incluindo a preparação do desacoplamento para uma plataforma **headless com Next.js**.
+- E-commerces com HTML, CSS/Less, JavaScript, jQuery e Knockout.js para **Haymes Paint** (AU), **Carmen Steffens** (BR) e **Esfera** (BR).
+- Projetos em React.js e Next.js para **Yamaha** (US), **Sazerac** (US) e **SDI** (US).
+
+**Analista de Chatbot** · Vialaser Depilação <br/>
+<sub>Jun 2021 — Set 2021</sub>
+
+- Curadoria, implementação e melhoria dos fluxos conversacionais da Lisa, atendente virtual da empresa.
+
+### 02 · Formação
+
+**Análise e Desenvolvimento de Sistemas** · Centro Universitário UNIFTEC <br/>
+<sub>Jun 2019 — Dez 2022</sub>
+
+### 03 · Tecnologias
+
+<table>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-18181b?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+      <img src="https://img.shields.io/badge/Next.js-18181b?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+      <img src="https://img.shields.io/badge/TypeScript-18181b?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/JavaScript-18181b?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-18181b?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS"/>
+      <img src="https://img.shields.io/badge/HTML-18181b?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML"/>
+      <img src="https://img.shields.io/badge/CSS-18181b?style=flat-square&logo=css&logoColor=663399" alt="CSS"/>
+      <img src="https://img.shields.io/badge/Sass-18181b?style=flat-square&logo=sass&logoColor=CC6699" alt="Sass"/>
+      <img src="https://img.shields.io/badge/Lit-18181b?style=flat-square&logo=lit&logoColor=324FFF" alt="Lit"/>
+      <img src="https://img.shields.io/badge/Storybook-18181b?style=flat-square&logo=storybook&logoColor=FF4785" alt="Storybook"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Backend & dados</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-18181b?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/NestJS-18181b?style=flat-square&logo=nestjs&logoColor=E0234E" alt="NestJS"/>
+      <img src="https://img.shields.io/badge/Prisma-18181b?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-18181b?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/NextAuth-18181b?style=flat-square&logo=auth0&logoColor=white" alt="NextAuth"/>
+      <img src="https://img.shields.io/badge/JWT-18181b?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+      <img src="https://img.shields.io/badge/Firebase-18181b?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase"/>
+      <img src="https://img.shields.io/badge/Jest-18181b?style=flat-square&logo=jest&logoColor=C21325" alt="Jest"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Pagamentos & integrações</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Stripe-18181b?style=flat-square&logo=stripe&logoColor=635BFF" alt="Stripe"/>
+      <img src="https://img.shields.io/badge/Mercado_Pago-18181b?style=flat-square&logo=mercadopago&logoColor=00B1EA" alt="Mercado Pago"/>
+      <img src="https://img.shields.io/badge/Google_OAuth-18181b?style=flat-square&logo=google&logoColor=4285F4" alt="Google OAuth"/>
+      <img src="https://img.shields.io/badge/Webhooks-18181b?style=flat-square" alt="Webhooks"/>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>DevOps & infraestrutura</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-18181b?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker"/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-18181b?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions"/>
+      <img src="https://img.shields.io/badge/Caddy-18181b?style=flat-square&logo=caddy&logoColor=1F88C0" alt="Caddy"/>
+      <img src="https://img.shields.io/badge/Linux-18181b?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux"/>
+      <img src="https://img.shields.io/badge/Git-18181b?style=flat-square&logo=git&logoColor=F05032" alt="Git"/>
+    </td>
+  </tr>
+</table>
+
+<sub><strong>Também já trabalhei com:</strong> Vite · Zod · React Query · ESLint · Prettier · Less · jQuery · Knockout.js · Java (JSP) · Oracle ATG</sub>
+
+### 04 · Atividade no GitHub
+
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=clemersonbp&show_icons=true&hide_border=true&title_color=8b5cf6&icon_color=38bdf8&text_color=c9d1d9&bg_color=0d1117&count_private=true"/>
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=clemersonbp&hide_border=true&background=0d1117&ring=8b5cf6&fire=38bdf8&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=8b5cf6&sideLabels=38bdf8&dates=6e7681"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=clemersonbp&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9" />
+  <img height="150" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=clemersonbp&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=4f46e5&icon_color=4f46e5&text_color=18181b" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=clemersonbp&hide_border=true&background=00000000&ring=818cf8&fire=818cf8&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=818cf8&sideLabels=c9d1d9&dates=8b8b94&stroke=3f3f46" />
+  <img height="150" alt="Sequência de contribuições" src="https://streak-stats.demolab.com?user=clemersonbp&hide_border=true&background=00000000&ring=4f46e5&fire=4f46e5&currStreakNum=18181b&sideNums=18181b&currStreakLabel=4f46e5&sideLabels=52525b&dates=8b8b94&stroke=e7e7e4" />
+</picture>
 
 </div>
 
-<div align="center">
+### 05 · Contato
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=clemersonbp&bg_color=0d1117&color=8b5cf6&line=38bdf8&point=8b5cf6&area_color=38bdf8&area=true&hide_border=true&custom_title=Contribuições"/>
+Vamos conversar! Tem um projeto, uma vaga ou quer trocar uma ideia? Fique à vontade para me chamar.
 
-</div>
-
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=8b5cf6)](https://www.linkedin.com/in/clemersonbp/)
-[![Gmail](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=38bdf8)](mailto:clemersonpessalli@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/clemersonbp)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=clemersonbp&color=8b5cf6&style=flat-square&label=Visualizações"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:8b5cf6,100:0d1117&height=100&section=footer"/>
-
-</div>
+📧 [clemersonpessalli@gmail.com](mailto:clemersonpessalli@gmail.com) &nbsp;·&nbsp;
+💼 [LinkedIn](https://www.linkedin.com/in/clemersonbp/) &nbsp;·&nbsp;
+🌐 [clemersonbp.github.io](https://clemersonbp.github.io/)
