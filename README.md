@@ -97,8 +97,8 @@ Motivado por transformar ideias em soluções funcionais e ver projetos ganharem
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=clemersonbp&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9" />
-  <img height="150" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=clemersonbp&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=4f46e5&icon_color=4f46e5&text_color=18181b" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=clemersonbp&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9" />
+  <img height="150" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=clemersonbp&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=4f46e5&icon_color=4f46e5&text_color=18181b" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=clemersonbp&hide_border=true&background=00000000&ring=818cf8&fire=818cf8&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=818cf8&sideLabels=c9d1d9&dates=8b8b94&stroke=3f3f46" />
