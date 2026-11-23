@@ -19,7 +19,7 @@ Crio e mantenho produtos SaaS completos, do banco de dados ao deploy, com foco e
 
 ---
 
-### 01 · Projetos
+### Projetos
 
 Produtos web e mobile que criei do zero e mantenho em produção, do banco de dados ao deploy.
 
@@ -29,26 +29,12 @@ Produtos web e mobile que criei do zero e mantenho em produção, do banco de da
 | [**BladesPro**](https://bladespro.com.br) | SaaS de gestão para barbearias, multi-tenant, com agenda online, assinaturas recorrentes via Stripe, permissões por perfil e relatórios de faturamento. | Next.js, NestJS, Prisma, PostgreSQL, Stripe, Docker |
 | [**My Baby List**](https://mybabylist.cloud) | Listas de presentes para chá de bebê, com reserva em tempo real, login com Google e ativação paga via Mercado Pago. | Next.js, Prisma, PostgreSQL, NextAuth, Mercado Pago |
 
-### 02 · Experiência
-
-**Desenvolvedor Frontend** · [Compass.uol](https://compass.uol/) <br/>
-<sub>Set 2021 — Atual</sub>
-
-- Desenvolvimento do e-commerce de uma gigante nacional na plataforma **Oracle ATG**, com JavaScript, TypeScript, HTML, Sass, Storybook, Lit e Java (JSP) — incluindo a preparação do desacoplamento para uma plataforma **headless com Next.js**.
-- E-commerces com HTML, CSS/Less, JavaScript, jQuery e Knockout.js para **Haymes Paint** (AU), **Carmen Steffens** (BR) e **Esfera** (BR).
-- Projetos em React.js e Next.js para **Yamaha** (US), **Sazerac** (US) e **SDI** (US).
-
-**Analista de Chatbot** · Vialaser Depilação <br/>
-<sub>Jun 2021 — Set 2021</sub>
-
-- Curadoria, implementação e melhoria dos fluxos conversacionais da Lisa, atendente virtual da empresa.
-
-### 03 · Formação
+### Formação
 
 **Análise e Desenvolvimento de Sistemas** · Centro Universitário UNIFTEC <br/>
 <sub>Jun 2019 — Dez 2022</sub>
 
-### 04 · Tecnologias
+### Tecnologias
 
 <table>
   <tr>
