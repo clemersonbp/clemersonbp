@@ -111,6 +111,4 @@ Produtos web e mobile que criei do zero e mantenho em produção, do banco de da
 
 </div>
 
-### Contato
-
 Vamos conversar! Tem um projeto, uma vaga ou quer trocar uma ideia? Fique à vontade para me chamar.
