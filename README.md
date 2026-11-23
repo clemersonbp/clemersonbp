@@ -96,7 +96,7 @@ Produtos web e mobile que criei do zero e mantenho em produção, do banco de da
 
 <sub><strong>Também já trabalhei com:</strong> Vite · Zod · Vitest · pgTAP · pg_cron · Expo Router · Reanimated · Radix UI · Framer Motion · Passport · Monorepo (npm workspaces) · Envoy · Gitleaks · Dependabot · React Query · ESLint · Prettier · Less · jQuery · Knockout.js · Java (JSP) · Oracle ATG</sub>
 
-### 05 · Atividade no GitHub
+### Atividade no GitHub
 
 <div align="center">
 
@@ -111,7 +111,7 @@ Produtos web e mobile que criei do zero e mantenho em produção, do banco de da
 
 </div>
 
-### 06 · Contato
+### Contato
 
 Vamos conversar! Tem um projeto, uma vaga ou quer trocar uma ideia? Fique à vontade para me chamar.
 
