@@ -114,7 +114,3 @@ Produtos web e mobile que criei do zero e mantenho em produção, do banco de da
 ### Contato
 
 Vamos conversar! Tem um projeto, uma vaga ou quer trocar uma ideia? Fique à vontade para me chamar.
-
-📧 [clemersonpessalli@gmail.com](mailto:clemersonpessalli@gmail.com) &nbsp;·&nbsp;
-💼 [LinkedIn](https://www.linkedin.com/in/clemersonbp/) &nbsp;·&nbsp;
-🌐 [clemersonbp.github.io](https://clemersonbp.github.io/)
